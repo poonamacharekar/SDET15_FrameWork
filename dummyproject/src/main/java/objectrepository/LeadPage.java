@@ -11,5 +11,10 @@ public class LeadPage {
 		System.out.print("creating lead");
 		
 	}
+	
+	public void createleadwithphone() {
+		System.out.print("creating lead with phone number");
+	}
+	
 
 }
